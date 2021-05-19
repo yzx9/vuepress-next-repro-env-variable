@@ -1,0 +1,12 @@
+{
+  "name": "vuepress-next-repro-env-variable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress-vite": "^2.0.0-beta.14"
+  },
+  "scripts": {
+    "build": "vuepress build docs"
+  }
+}
